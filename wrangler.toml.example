@@ -1,0 +1,8 @@
+main = "./src/index.ts"
+name = "h"
+compatibility_date = "2022-07-26"
+
+[vars]
+DB_URL = "http://IP:PORT"
+DB_APIKEY = "API_KEY"
+DB_USER = "DISCORD_USER_ID"
